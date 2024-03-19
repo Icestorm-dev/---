@@ -19,3 +19,5 @@
 ![Скриншот игры в крестики-нолики](Screenshot_1.png)
 
 ![Скриншот игры в крестики-нолики](Screenshot_2.png)
+
+https://main--radiant-arithmetic-b8dac0.netlify.app/
