@@ -1,5 +1,3 @@
-// Math.floor(Math.random()*3)
-
 // Объявление переменных
 var arr, arr_events = [], win_block, winner, again, winning, game;
 
